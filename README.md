@@ -1,6 +1,6 @@
 # gathin for TCL / 雷鸟 sugarcane（Android 8.0 / SDK 26 / MStar）
 
-本仓库是 [gathin](https://github.com/CleanYourTV/gathin) 启动器在 **TCL 雷鸟 sugarcane** 固件（Android 8.0 / API 26 / MStar 平台）上的**设备专属适配版**，MIT 许可证，原作者版权保留。
+本仓库是 [CleanYourTV（gathin）](https://github.com/Gathin23/cleanyourtv) 启动器在 **TCL 雷鸟 sugarcane** 固件（Android 8.0 / API 26 / MStar 平台）上的**设备专属适配版**，MIT 许可证，原作者版权保留。
 
 > 它不是一个通用 fork，而是「在官方 gathin 源码基础上、叠加 sugarcane 固件需要的几处改动」的集合。大多数代码来自上游，本文只记录 TCL 相关的差异与踩坑。
 
@@ -72,4 +72,4 @@ TV_HOST=<TV_IP> ./build-and-install.sh
 
 本仓库基于 gathin，遵循其 **MIT 许可证**（见 `LICENSE`）。其中 `app/src/main/res/font/outfit.ttf` 字体为 SIL OFL 1.1，见 `FONT-LICENSE-OFL.txt`。
 
-上游：https://github.com/CleanYourTV/gathin
+上游：https://github.com/Gathin23/cleanyourtv
