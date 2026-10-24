@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 中文走系统字族（Noto Sans CJK），与 guizang 一致。去掉 Outfit 的细字重，避免中文偏细发虚；
+         英文与数字也走系统字族，整体更干净统一。 -->
+    <string name="font_body" translatable="false">sans-serif</string>
+    <string name="font_regular" translatable="false">sans-serif</string>
+    <string name="font_light" translatable="false">sans-serif</string>
+    <string name="font_extralight" translatable="false">sans-serif</string>
+    <string name="font_medium" translatable="false">sans-serif-medium</string>
+</resources>

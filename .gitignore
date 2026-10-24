@@ -1,0 +1,13 @@
+# Built output
+build/
+.gradle/
+local.properties
+
+# IDE
+*.iml
+.idea/
+captures/
+
+# OS
+Thumbs.db
+.DS_Store
